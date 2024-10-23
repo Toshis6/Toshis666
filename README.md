@@ -20,6 +20,7 @@ plaintext
 Python Software Foundation License Version 2
 
 Copyright (c)【2024年】【鈴木俊成】
+
 このソフトウェアはPython Software Foundation (PSF)によって提供されており、以下の条件に従って使用、コピー、変更、配布することができます。
 
 1.このソフトウェアの使用、コピー、変更、配布は、無償で行うことができます。
